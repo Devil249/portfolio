@@ -7,7 +7,7 @@
 .home{
 	height: 110vh;
 	width: 100%;
-	background-image: url(portfolio/886833.png);
+	background-color: rgb(188, 188, 188);
 	background-size: cover;
 	background-position: center;
 }
